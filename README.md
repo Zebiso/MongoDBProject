@@ -1,4 +1,4 @@
-# MongoProject
+# MongoDBProject
 
 # Sobre o projeto
 Projeto desenvolvido em curso para aplicar conhecimentos sobre Spring Boot e MongoDB.
